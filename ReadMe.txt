@@ -25,5 +25,4 @@ Achieving a BLEU score of >50
 References:
 1. https://blog.paperspace.com/image-captioning-with-tensorflow/
 2.
-https://medium.com/@raman.shinde15/image-captioning-with-flickr8k-dataset-bleu-4bcba
-0b52926
+https://medium.com/@raman.shinde15/image-captioning-with-flickr8k-dataset-bleu-4bcba0b52926
