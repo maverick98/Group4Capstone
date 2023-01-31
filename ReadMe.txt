@@ -38,3 +38,6 @@ https://www.bib.irb.hr/1005660/download/1005660.Deep_Image_Captioning_MIPRO2019_
 http://jalammar.github.io/illustrated-transformer/
 https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
 https://www.youtube.com/watch?v=SMZQrJ_L1vo&t=2263s
+https://blog.paperspace.com/nlp-machine-translation-with-keras/
+https://blog.paperspace.com/transfer-learning-explained/
+
