@@ -26,3 +26,7 @@ References:
 1. https://blog.paperspace.com/image-captioning-with-tensorflow/
 2.
 https://medium.com/@raman.shinde15/image-captioning-with-flickr8k-dataset-bleu-4bcba0b52926
+
+More links.
+https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+https://www.youtube.com/watch?v=rLyF4XQLwr0
