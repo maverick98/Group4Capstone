@@ -30,3 +30,11 @@ https://medium.com/@raman.shinde15/image-captioning-with-flickr8k-dataset-bleu-4
 More links.
 https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
 https://www.youtube.com/watch?v=rLyF4XQLwr0
+https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f?%24Ga=true
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+https://fairyonice.github.io/Develop_an_image_captioning_deep_learning_model_using_Flickr_8K_data.html
+http://cs231n.github.io/transfer-learning/
+https://www.bib.irb.hr/1005660/download/1005660.Deep_Image_Captioning_MIPRO2019_Final.pdf
+http://jalammar.github.io/illustrated-transformer/
+https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+https://www.youtube.com/watch?v=SMZQrJ_L1vo&t=2263s
