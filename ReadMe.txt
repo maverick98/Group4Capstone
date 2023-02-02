@@ -51,6 +51,8 @@ https://www.youtube.com/watch?v=xKt21ucdBY0
 https://www.youtube.com/watch?v=BPL3hHNvJmU (Full list https://archive.nptel.ac.in/courses/106/106/106106224/ or https://www.youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG)
 https://www.youtube.com/watch?v=Atf7uJ1JIZU (Full list https://archive.nptel.ac.in/courses/106/106/106106224/ or https://www.youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG)
 
+https://www.youtube.com/watch?v=dC_d3iVw6sc&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT&index=115 ( THIS IS A MUST WATCHING )
+
 
 
 
