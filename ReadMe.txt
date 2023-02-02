@@ -42,6 +42,8 @@ https://blog.paperspace.com/nlp-machine-translation-with-keras/
 https://blog.paperspace.com/transfer-learning-explained/
 https://towardsdatascience.com/word-level-english-to-marathi-neural-machine-translation-using-seq2seq-encoder-decoder-lstm-model-1a913f2dc4a7
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT
+https://archive.nptel.ac.in/courses/106/105/106105215/
 
 
 
