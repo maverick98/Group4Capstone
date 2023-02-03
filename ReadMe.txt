@@ -53,6 +53,12 @@ https://www.youtube.com/watch?v=Atf7uJ1JIZU (Full list https://archive.nptel.ac.
 
 https://www.youtube.com/watch?v=dC_d3iVw6sc&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT&index=115 ( THIS IS A MUST WATCHING )
 
+For NLP
+https://www.youtube.com/watch?v=sZGuyTLjsco&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=111
+https://www.youtube.com/watch?v=Fuw0wv3X-0o&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=112
+https://www.youtube.com/watch?v=hQwFeIupNP0&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=113
+https://www.youtube.com/watch?v=Q2NtCcqmIww&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=114
+
 
 
 
