@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=sZGuyTLjsco&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdK
 https://www.youtube.com/watch?v=Fuw0wv3X-0o&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=112
 https://www.youtube.com/watch?v=hQwFeIupNP0&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=113
 https://www.youtube.com/watch?v=Q2NtCcqmIww&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=114
-
+https://www.machinelearningplus.com/nlp/gensim-tutorial/
 
 
 
