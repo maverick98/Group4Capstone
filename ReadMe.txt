@@ -63,5 +63,6 @@ https://github.com/maverick98/CDS/blob/main/Mano_NLP.ipynb
 https://github.com/maverick98/CDS/blob/main/Mano_word2vec.ipynb
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
+https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
 
 
