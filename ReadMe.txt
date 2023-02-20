@@ -53,6 +53,7 @@ https://www.youtube.com/watch?v=Atf7uJ1JIZU (Full list https://archive.nptel.ac.
 
 https://www.youtube.com/watch?v=dC_d3iVw6sc&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT&index=115 ( THIS IS A MUST WATCHING )
 https://www.analyticsvidhya.com/blog/2021/01/implementation-of-attention-mechanism-for-caption-generation-on-transformers-using-tensorflow/
+https://www.youtube.com/watch?v=OyFJWRnt_AY
 
 For NLP
 https://www.youtube.com/watch?v=sZGuyTLjsco&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=111
