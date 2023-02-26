@@ -67,4 +67,7 @@ https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
 https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
 
+on AWS
+https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
+
 
