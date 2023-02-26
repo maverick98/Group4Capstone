@@ -66,6 +66,7 @@ https://github.com/maverick98/CDS/blob/main/Mano_word2vec.ipynb
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 
 https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+https://towardsdatascience.com/image-captioning-by-translational-visual-to-language-models-d728bced41c3
 
 on AWS
 https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
