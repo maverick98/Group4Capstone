@@ -75,3 +75,13 @@ on AWS
 https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
 https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/
 
+
+https://medium.com/@lorenzojcducv/how-are-neural-networks-related-to-fourier-transforms-54e0b78e50de
+https://medium.com/analytics-vidhya/fast-cnn-substitution-of-convolution-layers-with-fft-layers-a9ed3bfdc99a
+https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/
+https://www.microsoft.com/en-us/research/video/novel-image-captioning/
+https://bair.berkeley.edu/blog/2017/08/08/novel-object-captioning/
+https://biomedpharmajournal.org/vol10no2/analysis-and-comparison-of-wavelet-transforms-for-denoising-mri-image/#:~:text=Wavelets%20based%20transform%20are%20mathematical,of%20the%20images%20%5B13%5D.
+https://youtu.be/JdVq8Tn1ds0
+
