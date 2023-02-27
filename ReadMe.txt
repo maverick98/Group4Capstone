@@ -73,5 +73,5 @@ https://towardsdatascience.com/image-captioning-by-translational-visual-to-langu
 
 on AWS
 https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
-
+https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/
 
