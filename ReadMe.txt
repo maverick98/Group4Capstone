@@ -85,3 +85,5 @@ https://bair.berkeley.edu/blog/2017/08/08/novel-object-captioning/
 https://biomedpharmajournal.org/vol10no2/analysis-and-comparison-of-wavelet-transforms-for-denoising-mri-image/#:~:text=Wavelets%20based%20transform%20are%20mathematical,of%20the%20images%20%5B13%5D.
 https://youtu.be/JdVq8Tn1ds0
 
+https://arxiv.org/abs/1409.0473
+
