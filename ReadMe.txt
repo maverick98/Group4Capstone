@@ -98,4 +98,20 @@ https://www.youtube.com/watch?v=XowwKOAWYoQ
 
 Positional Encoding in Transformer architecture
 https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
+https://www.youtube.com/watch?v=fEVyfT-gLqQ
+https://www.youtube.com/watch?v=rBCqOTEfxvg
+https://www.youtube.com/watch?v=hPb6A92LROc
+https://www.youtube.com/watch?v=HZ4j_U3FC94
+https://www.youtube.com/watch?v=J-utjBdLCTo
+https://www.youtube.com/watch?v=g2BRIuln4uc
+https://www.youtube.com/watch?v=KmAISyVvE1Y
+https://www.youtube.com/watch?v=-lnHHWRCDGk
+https://www.youtube.com/watch?v=WFcH7kRNEBc
+https://www.youtube.com/watch?v=-QH8fRhqFHM
+https://www.youtube.com/watch?v=tstbZXNCfLY
+https://www.youtube.com/watch?v=SsLzwRXH0UI
+
+
+
+
 
