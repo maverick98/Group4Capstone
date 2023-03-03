@@ -96,3 +96,6 @@ https://github.com/tanishqgautam/Image-Captioning
 Attention Is All You Need - Paper Explained
 https://www.youtube.com/watch?v=XowwKOAWYoQ
 
+Positional Encoding in Transformer architecture
+https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
+
