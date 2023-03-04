@@ -114,6 +114,9 @@ https://www.youtube.com/watch?v=SsLzwRXH0UI
 https://www.tensorflow.org/tutorials/text/image_captioning
 
 
+https://www.youtube.com/playlist?list=PLDw5cZwIToCvXLVY2bSqt7F2gu8y-Rqje
+
+
 
 
 
