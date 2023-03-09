@@ -117,6 +117,10 @@ https://www.tensorflow.org/tutorials/text/image_captioning
 https://www.youtube.com/playlist?list=PLDw5cZwIToCvXLVY2bSqt7F2gu8y-Rqje
 
 
+A link on Image Captioning provided by Jason Brownlee from MachineLearningMastery.com
+https://www.analyticsvidhya.com/blog/2021/12/step-by-step-guide-to-build-image-caption-generator-using-deep-learning/
+
+
 
 
 
