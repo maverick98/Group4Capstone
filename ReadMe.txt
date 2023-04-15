@@ -121,6 +121,19 @@ A link on Image Captioning provided by Jason Brownlee from MachineLearningMaster
 https://www.analyticsvidhya.com/blog/2021/12/step-by-step-guide-to-build-image-caption-generator-using-deep-learning/
 
 
+Articles on Transformers
+https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452
+https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34
+https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853
+https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3
+
+Beam Search
+https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24
+BLEU/WER Score
+https://towardsdatascience.com/foundations-of-nlp-explained-bleu-score-and-wer-metrics-1a5ba06d812b
+
+
+
 
 
 
